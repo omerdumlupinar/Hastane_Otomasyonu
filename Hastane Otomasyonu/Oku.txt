@@ -1,2 +1,0 @@
-Sql baglantı Adresinizi yol dosyasına ekleyin ve yol.txt dosyasını C klaörüne atın
-veritabanını sql veritabanları kısımına ekleyin
