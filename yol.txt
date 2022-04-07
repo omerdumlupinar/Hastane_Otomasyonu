@@ -1,1 +1,0 @@
-Data Source=Asus-Pc;Initial Catalog=HastaneProje;Integrated Security=True
